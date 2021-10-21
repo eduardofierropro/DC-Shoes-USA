@@ -8,7 +8,7 @@ Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch 
 Para ver proyecto en directo puedes verlo aquí [GITHUBPAGES](GITHUBPAGES)
 
 ## Tiempo de programación ⏰
-Este ejemplo ha sido programado en aproximadamente 15 minutos al grabar el vídeo de Youtube: [URL](URL)
+Este ejemplo ha sido programado en varias horas en directo mientras charlamos y resolvía dudas para grabar el vídeo de Youtube: [URL](URL)
 
 ## PDF con info de módulos web
 Aquí te dejo [un enlace de descarga hacia un PDF](https://eduardofierro.pro/descargas/modulos-de-una-web.pdf?utm_source=modulos-web&utm_medium=github&utm_campaign=descarga-pdf) con el resto de módulos, resumen y teoría.
