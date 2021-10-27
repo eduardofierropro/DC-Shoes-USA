@@ -34,6 +34,7 @@
         border-bottom:1px solid rgb(201, 201, 201);
         &__h1{
             max-width: 2.8em;
+            min-width: 2em;
             transition: all .5s ease;
             @include tablet{
                 margin: 0 14% 0 0;

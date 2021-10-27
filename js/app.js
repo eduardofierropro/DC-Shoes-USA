@@ -2,6 +2,7 @@
 var body = document.body;
 var med = document.querySelector('.header__med');
 var medTop = med.getBoundingClientRect().top;
+
 window.addEventListener('scroll', function () {
     var pixel = window.scrollY;
     if (pixel >= medTop) {
