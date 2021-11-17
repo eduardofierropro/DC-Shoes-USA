@@ -28,7 +28,7 @@ Es un código programado en directo para entretenimiento.
 ## Master/Cursos donde sor profesor 📚
 Soy profesor en la Escuela Trazos donde impartimos Cursos y Másters sobre desarrollo web con una bolsa de trabajo con Alta Empleabilidad. ¡Píde información sobre los cursos donde soy profesor desde este enlace!
 
-👉[https://trazos.net/contacto-eduardofierro](https://trazos.net/contacto-eduardofierro)
+👉[http://colaboracion.eduardofierro.pro](http://colaboracion.eduardofierro.pro)
 
 ## Licencia 📄
 MIT Public License v3.0
