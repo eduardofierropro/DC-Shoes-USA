@@ -4,7 +4,7 @@ No ha sido probado para tener soporte crossbrowsing.
 Si te ha gustado o te ha servido coméntalo en un directo o sígueme por Twitch y Youtube 😊
 
 ## URL para ver el resultado
-Para ver proyecto en directo puedes verlo aquí [GITHUBPAGES](GITHUBPAGES)
+Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/DC-Shoes-USA/](https://eduardofierropro.github.io/DC-Shoes-USA/)
 
 ## Tiempo de programación ⏰
 Este ejemplo ha sido programado en varias horas en directo mientras charlamos y resolvía dudas para grabar el vídeo de Youtube: [https://youtu.be/nUu--X0mmlo](https://youtu.be/nUu--X0mmlo)
