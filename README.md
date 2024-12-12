@@ -5,7 +5,6 @@
 Esta es la copia de la web de la marca de skateboard DC Shoe USA donde practicamos bastante con Grid y explicamos bastantes conceptos sobre las imágenes.
 
 [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://www.dcshoes.com/)
-[![Live Site](https://img.shields.io/static/v1?label=&message=Live%20Site&color=6cccb4&style=for-the-badge)](https://eduardofierropro.github.io/DC-Shoes-USA/)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardofierropro/DC-Shoes-USA)
 [![Youtube](https://img.shields.io/static/v1?label=&message=ver%20en%20youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/nUu--X0mmlo)
 
